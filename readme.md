@@ -4,3 +4,8 @@
 
 ## <div dir="rtl"> فایل اکسل  و پی دی اف لغات زبان انگلیسی که بعد از دیدن فیلم های یودمی و یوتیوب جمع آوری شده  </div>
 ## [file](https://github.com/wer340/English/tree/main/Excell_word) 
+
+# [youglish/](https://youglish.com)
+# [languagetool extension chrome](https://languagetool.or/)
+# [Do people Say??](https://dopeoplesay.com)
+# [urban dictionary](https://www.urbandictionary.com)
